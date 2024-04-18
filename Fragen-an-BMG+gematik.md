@@ -1,10 +1,18 @@
 # Zielsetzung
 Zur genaueren Interpretation des [§ 360 (16) SGB V](https://www.gesetze-im-internet.de/sgb_5/__360.html) und zum besseren Verständnis der [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) sollen die folgenden Fragen an das Bundesministerium für Gesundheit (BMG) und die gematik gerichtet werden.
 # Fragen an das BMG
-* Der in § 360 (16) SGB V genutzte Begriff der "Zugangsdaten" zu elektronischen Verordnungen ist leider nicht gesetzlich bestimmt, so dass hier vielfältige Interpretationen dieses Begriffes existieren, die davon abhängen, wie breit die wörtliche Auslegung des Begriffes bei den vier von der gematik spezifizierten Möglichkeiten zur Einreichung von elektronischen Verordnungen erfolgt. Gestützt auf das in der Informatik übliche Verständnis des Begriffs "Zugangsdaten" könnte man bei den unterschiedlichen Einreichungsvarianten für elektronische Verordnungen zu folgenden Interpretationen gelangen:
-** Einlösung von Verordnungen mit eGK und PIN in der E-Rezept-App der gematik: Hier würden die Zugangsdaten aus dem kryptographischen Schlüsselmaterial der eGK und der PIN bestehen.
-** Einlösen von Verordnungen mittels ausgedrucktem E-Rezept-Token: Hier würden die Zugangsdaten aus dem E-Rezept-Token (codiert als QR-Code bzw. im Klartext) bestehen.
-** 
+
+1. Der in § 360 (16) SGB V genutzte Begriff der "**Zugangsdaten**" zu elektronischen Verordnungen ist leider nicht gesetzlich bestimmt, so dass hier vielfältige Interpretationen dieses Begriffes existieren, die davon abhängen, wie breit die wörtliche Auslegung des Begriffes bei den vier von der gematik spezifizierten Möglichkeiten zur Einreichung von elektronischen Verordnungen erfolgt. 
+Gestützt auf das in der Informatik übliche Verständnis des Begriffs "Zugangsdaten" könnte man bei den unterschiedlichen Einreichungsvarianten für elektronische Verordnungen zu folgenden Interpretationen gelangen:
+Einlösung von Verordnungen mit ...
+   * **eGK und PIN** in der E-Rezept-App der gematik: Hier könnten die "Zugangsdaten" aus 
+ dem kryptographischen Schlüsselmaterial der eGK und der PIN bestehen.
+   * **ausgedrucktem E-Rezept-Token**: Hier könnten die "Zugangsdaten" schlicht aus dem ggf. als QR-Code codierten E-Rezept-Token gemäß [gemSpec_DM_eRp (§ 2.3.1)](https://fachportal.gematik.de/fachportal-import/files/gemSpec_DM_eRp_V1.9.0.pdf) bestehen.
+   *  gesteckter **eGK ohne PIN in der Apotheke**: Hier könnten die "Zugangsdaten" aus dem Schlüsselmaterial der physikalisch in der Apotheke befindlichen eGK samt der optisch sichtbaren Merkmale bestehen.
+   *  dem **eHealth-CardLink-Verfahren und eGK ohne PIN**: Hier könnten die "Zugangsdaten" aus dem Schlüsselmaterial der per App gekoppelten eGK und der per SMS verschickten TAN bestehen.
+Könnten Sie bitte präzise klären, was in § 360 (16) SGB V **genau** unter dem Begriff "Zugangsdaten" zu elektronischen Verordnungen zu verstehen ist.
+
+2. 
 
 # Fragen an die gematik
 
