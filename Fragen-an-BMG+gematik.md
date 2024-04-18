@@ -3,8 +3,7 @@ Zur genaueren Interpretation des [§ 360 (16) SGB V](https://www.gesetze-im-inte
 
 # Fragen an das BMG und gematik
 
-1. In § 360 (16) SGB V wird ein Verbot der "Übermittlung von elektronischen Verordnungen oder elektronischen Zugangsdaten zu elektronischen Verordnungen [...] **außerhalb der Telematikinfrastruktur**" definiert. 
-   
+1. In § 360 (16) SGB V wird ein Verbot der "Übermittlung von elektronischen Verordnungen oder elektronischen Zugangsdaten zu elektronischen Verordnungen [...] **außerhalb der Telematikinfrastruktur**" (TI) definiert. Leider scheint weder im SGB V noch in den Spezifikationen der gematik präzise definiert zu sein, was genau innerhalb und außerhalb der TI ist. Zur Abgrenzung der TI gibt es historisch betrachtet verschiedene Ansätze, die hier leider allesamt nicht zu einer widerspruchsfreien und tragfähigen Interpretation der Rechtslage bezüglich des eHealth-CardLink-Verfahrens zu führen scheinen. Vor diesem Hintergrund möchten wir freundlich bitten, eine klare Definition zu schaffen, was genau innerhalb und "außerhalb der Telematikinfrastruktur" ist.   
   
 2. Der in § 360 (16) SGB V genutzte Begriff der "**Zugangsdaten**" zu elektronischen Verordnungen ist leider nicht gesetzlich bestimmt, so dass hier vielfältige Interpretationen dieses Begriffes existieren, die davon abhängen, wie breit die wörtliche Auslegung des Begriffes bei den vier von der gematik spezifizierten Möglichkeiten zur Einreichung von elektronischen Verordnungen erfolgt. 
 Gestützt auf das in der Informatik übliche Verständnis des Begriffs "Zugangsdaten" könnte man bei den unterschiedlichen Einreichungsvarianten für elektronische Verordnungen zu folgenden Interpretationen gelangen:
