@@ -1,8 +1,12 @@
 # Zielsetzung
 Zur genaueren Interpretation des [§ 360 (16) SGB V](https://www.gesetze-im-internet.de/sgb_5/__360.html) und zum besseren Verständnis der [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) sollen die folgenden Fragen an das Bundesministerium für Gesundheit (BMG) und die gematik gerichtet werden.
-# Fragen an das BMG
 
-1. Der in § 360 (16) SGB V genutzte Begriff der "**Zugangsdaten**" zu elektronischen Verordnungen ist leider nicht gesetzlich bestimmt, so dass hier vielfältige Interpretationen dieses Begriffes existieren, die davon abhängen, wie breit die wörtliche Auslegung des Begriffes bei den vier von der gematik spezifizierten Möglichkeiten zur Einreichung von elektronischen Verordnungen erfolgt. 
+# Fragen an das BMG und gematik
+
+1. In § 360 (16) SGB V wird ein Verbot der "Übermittlung von elektronischen Verordnungen oder elektronischen Zugangsdaten zu elektronischen Verordnungen [...] **außerhalb der Telematikinfrastruktur**" definiert. 
+   
+  
+2. Der in § 360 (16) SGB V genutzte Begriff der "**Zugangsdaten**" zu elektronischen Verordnungen ist leider nicht gesetzlich bestimmt, so dass hier vielfältige Interpretationen dieses Begriffes existieren, die davon abhängen, wie breit die wörtliche Auslegung des Begriffes bei den vier von der gematik spezifizierten Möglichkeiten zur Einreichung von elektronischen Verordnungen erfolgt. 
 Gestützt auf das in der Informatik übliche Verständnis des Begriffs "Zugangsdaten" könnte man bei den unterschiedlichen Einreichungsvarianten für elektronische Verordnungen zu folgenden Interpretationen gelangen:
 Einlösung von Verordnungen mit ...
    * **eGK und PIN** in der E-Rezept-App der gematik: Hier könnten die "Zugangsdaten" aus 
@@ -12,7 +16,12 @@ Einlösung von Verordnungen mit ...
    *  dem **eHealth-CardLink-Verfahren und eGK ohne PIN**: Hier könnten die "Zugangsdaten" aus dem Schlüsselmaterial der per App gekoppelten eGK und der per SMS verschickten TAN bestehen.
 Könnten Sie bitte präzise klären, was in § 360 (16) SGB V **genau** unter dem Begriff "Zugangsdaten" zu elektronischen Verordnungen zu verstehen ist.
 
-2. 
+3. In § 360 (16) Satz 2 Nr. 3 SGB V ist eine Ausnahme vom generellen Übermittlungsverbot definiert für informationstechnischen Systeme, "die eine Apotheke **betreibt**". Ist mit dem gewählten Wort "betreibt", statt beispielsweise "verantwortet" im Sinne von Art. 4 (7) DSGVO bzw. "Anbieter" im Sinne der Regularien der gematik und auch im Vergleich zur Wahl des Begriffes "Anbieter" in § 360 (16) Satz 2 Nr. 3 SGB V - tatsächlich gemeint, dass die Apotheke selbst das System in einem eigenen Rechenzentrum "betreiben" muss, ohne dass hier Auftragsverarbeiter gemäß Art. 28 DSGVO eingesetzt werden dürften, oder ist für diesen Fall auch der rechtskonforme Einsatz von Auftragsverarbeitern zulässig?
 
-# Fragen an die gematik
+4. Wie soll nach Ihren Vorstellungen bzw. nach den Vorstellungen der gematik für den in § 360 (16) Satz 2 Nr. 4 SGB V beschriebenen Fall der diskriminierungsfreien Anbindung die Erfüllung des "Stand der Technik gemäß den Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik" nachgewiesen werden, so lange die [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) nur einen Teil des hierfür notwendigen Systems adressiert?
+
+5.  Wie kann nach Ihren Vorstellungen bzw. nach den Vorstellungen der gematik für den in § 360 (16) Satz 2 Nr. 4 SGB V beschriebenen Fall der diskriminierungsfreien Anbindung die Nutzung "normierter Schnittstellen der Gesellschaft für Telematik nachgewiesen werden, so lange die [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) nur einen Teil der hierfür notwendigen Schnittstellen spezifiziert?
+
+6.  
+
 
