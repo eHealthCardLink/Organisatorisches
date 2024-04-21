@@ -19,7 +19,7 @@ Könnten Sie bitte präzise klären, was in § 360 (16) SGB V **genau** unter de
 
 4. Wie soll nach Ihren Vorstellungen bzw. nach den Vorstellungen der gematik für den in § 360 (16) Satz 2 Nr. 4 SGB V beschriebenen Fall der diskriminierungsfreien Anbindung die Erfüllung des "Stand der Technik gemäß den Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik" nachgewiesen werden, so lange die [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) nur einen Teil des hierfür notwendigen Systems adressiert?
 
-5.  Wie kann nach Ihren Vorstellungen bzw. nach den Vorstellungen der gematik für den in § 360 (16) Satz 2 Nr. 4 SGB V beschriebenen Fall der diskriminierungsfreien Anbindung die Nutzung "normierter Schnittstellen der Gesellschaft für Telematik nachgewiesen werden, so lange die [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) nur einen Teil der hierfür notwendigen Schnittstellen spezifiziert?
+5.  Wie kann nach Ihren Vorstellungen bzw. nach den Vorstellungen der gematik für den in § 360 (16) Satz 2 Nr. 4 SGB V beschriebenen Fall der diskriminierungsfreien Anbindung die Nutzung "normierter Schnittstellen der Gesellschaft für Telematik" nachgewiesen werden, so lange die [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) nur einen Teil der hierfür notwendigen Schnittstellen spezifiziert?
 
 6.  
 
