@@ -1,19 +1,20 @@
 # Zielsetzung
 
-Zur genaueren Interpretation des [§ 360 (16) SGB V](https://www.gesetze-im-internet.de/sgb_5/__360.html) und zum besseren Verständnis der [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) sollen die folgenden Fragen an das Bundesministerium für Gesundheit (BMG) und die gematik gerichtet werden.
+Zur genaueren Interpretation des [§ 360 (16) SGB V](https://www.gesetze-im-internet.de/sgb_5/__360.html) und zum besseren Verständnis der [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf)-Spezifikation sollen die folgenden Fragen an das Bundesministerium für Gesundheit (BMG) und die gematik GmbH gerichtet werden.
 
-# Fragen an das BMG und gematik
+# Fragen an das BMG und die gematik
 
 1. In § 360 (16) SGB V wird ein Verbot der "Übermittlung von elektronischen Verordnungen oder elektronischen Zugangsdaten zu elektronischen Verordnungen [...] **außerhalb der Telematikinfrastruktur**" (TI) definiert. Leider scheint weder im SGB V noch in den Spezifikationen der gematik präzise definiert zu sein, was genau innerhalb und außerhalb der TI ist. Zur Abgrenzung der TI gibt es historisch betrachtet verschiedene Ansätze, die hier leider allesamt nicht zu einer widerspruchsfreien und tragfähigen Interpretation der Rechtslage bezüglich des eHealth-CardLink-Verfahrens zu führen scheinen. Vor diesem Hintergrund möchten wir freundlich bitten, eine klare Definition zu schaffen, was genau innerhalb und außerhalb der Telematikinfrastruktur ist.
 Es wäre nett, wenn Sie kurz darauf eingehen könnten, ob die folgenden Komponenten in diesem Sinne innerhalb oder außerhalb der TI sind:
-  * die Primärsysteme der Leistungserbringer (Apothekenverwaltungssystem (AVS), Praxisverwaltungssystem (PVS) etc.)
-  * eHealth-Kartenterminal gemäß [gemSpec_KT](https://fachportal.gematik.de/fachportal-import/files/gemSpec_KT_V3.17.0.pdf)
-  * eHealth-CardLink-Dienst gemäß [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf)
-  * Client des Nutzers ("App") gemäß [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) (Abschnitt 3)
-  * E-Rezept-App der gematik gemäß [gemSpec_eRp_FdV](https://fachportal.gematik.de/fachportal-import/files/gemSpec_eRp_FdV_V2.1.0.pdf)
-  * Frontends der Versicherten für den Zugriff auf die elektronische Patientenakte gemäß [gemSpec_ePA_FdV](https://fachportal.gematik.de/fachportal-import/files/gemSpec_ePA_FdV_V2.1.0_Aend.pdf)
+   * die Primärsysteme der Leistungserbringer (Apothekenverwaltungssystem (AVS), Praxisverwaltungssystem (PVS) etc.)
+   * eHealth-Kartenterminal gemäß [gemSpec_KT](https://fachportal.gematik.de/fachportal-import/files/gemSpec_KT_V3.17.0.pdf)
+   * eHealth-CardLink-Dienst gemäß [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf)
+   * Client des Nutzers ("App") gemäß [gemSpec_eHealth-CardLink](https://gemspec.gematik.de/downloads/gemSpec/gemSpec_eHealth-CardLink/gemSpec_eHealth-CardLink_V1.0.0.pdf) (Abschnitt 3)
+   * E-Rezept-App der gematik gemäß [gemSpec_eRp_FdV](https://fachportal.gematik.de/fachportal-import/files/gemSpec_eRp_FdV_V2.1.0.pdf)
+   * Frontends der Versicherten für den Zugriff auf die elektronische Patientenakte gemäß [gemSpec_ePA_FdV](https://fachportal.gematik.de/fachportal-import/files/gemSpec_ePA_FdV_V2.1.0_Aend.pdf)
 
-Abschließend wäre es nett, wenn auch geklärt werden könnte, ob ein bei einer dieser Komponenten endende TLS-Kanal in diesem Sinne innerhalb oder außerhalb der TI ist.  
+   Abschließend wäre es nett, wenn auch geklärt werden könnte, ob ein bei einer dieser Komponenten endende TLS-Kanal 
+   in diesem Sinne innerhalb oder außerhalb der TI ist.  
     
 2. Der in § 360 (16) SGB V genutzte Begriff der "**Zugangsdaten**" zu elektronischen Verordnungen ist leider nicht gesetzlich bestimmt, so dass hier vielfältige Interpretationen dieses Begriffes existieren, die davon abhängen, wie breit die wörtliche Auslegung des Begriffes bei den vier von der gematik spezifizierten Möglichkeiten zur Einreichung von elektronischen Verordnungen erfolgt. 
 Gestützt auf das in der Informatik übliche Verständnis des Begriffs "Zugangsdaten" könnte man bei den unterschiedlichen Einreichungsvarianten für elektronische Verordnungen zu folgenden Interpretationen gelangen:
