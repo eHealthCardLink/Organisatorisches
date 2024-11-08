@@ -2,20 +2,20 @@
 
 # eHealth-CardLink - Marktübersicht
 
-## eHealth-CardLink - Komponenten, Produkte und Dienste
+## eHealth-CardLink - SDKs, Produkte und Dienste
 
 | Anbieter | SDK | Produkt | Dienst | ISO/IEC 27001 | 
 | --- | --- |  --- | --- | --- |
 | [**`akquinet health service GmbH`**](https://akquinet.com/) | / | / | [1.0.0](https://tinyurl.com/gemCL-Anb) |  [ISO/IEC 27001:2022](https://akquinet.com/files/AKQUINET/zertifikate/zertifikat-2024-housing-managed-hosting-services-akquinet.pdf) |
-| [**`Cherry SE`**](https://www.cherry.de/) | [SDK angekündigt](https://www.cherry.de/unternehmen/presse/artikel/software-developer-kit-fertig-ab-sofort-mit-cherry-smartlink-die-integration-von-cardlink-starten) | / | [1.0.0] | / | / | 
-| [**`DocMorris N.V.`**](https://www.docmorris.de/) | / | [DocMorris eHealth-CardLink (1.0.4)](https://tinyurl.com/gemCL-Prod) | [1.0.0](https://tinyurl.com/gemCL-Anb)  | / | 
-| [**`eHealth Experts GmbH`**](https://ehex.de/) | SDK? | [ehex cardlink (1.0.3, 1.0.4)](https://tinyurl.com/gemCL-Prod) | / | / |
+| [**`Cherry SE`**](https://www.cherry.de/) | [SDK](https://www.cherry.de/de-de/unternehmen/news/presse/artikel/software-developer-kit-fertig-ab-sofort-mit-cherry-smartlink-die-integration-von-cardlink-starten) | [Cherry SmartLink (1.0.0)](https://tinyurl.com/gemCL-Prod) | / | / | 
+| [**`DocMorris N.V.`**](https://www.docmorris.de/) | / | [DocMorris eHealth-CardLink (1.0.x)](https://tinyurl.com/gemCL-Prod) | [1.0.0](https://tinyurl.com/gemCL-Anb)  | / | 
+| [**`eHealth Experts GmbH`**](https://ehex.de/) | SDK | [ehex cardlink (1.0.x)](https://tinyurl.com/gemCL-Prod) | / | / |
 | [**`ecsec GmbH`**](https://ecsec.de) |  [epotheke SDK (1.1.x)](https://github.com/epotheke/epotheke-sdk) |  / | / | [ISO/IEC 27001:2022](https://epotheke.com/pub/ISO-IEC-27001.pdf) |
-| [**`GEDISA mbH`**](https://www.gedisa.de/) | | SDK | / | [1.0.0](https://tinyurl.com/gemCL-Anb) | / | 
-| [**`service health erx GmbH`**](https://www.service-health.de/) | / |  [cardlink.health (1.0.1)](https://tinyurl.com/gemCL-Prod) | / | / |
+| [**`GEDISA mbH`**](https://www.gedisa.de/) | SDK | / | [1.0.0](https://tinyurl.com/gemCL-Anb) | / | 
+| [**`service health erx GmbH`**](https://www.service-health.de/) | / |  [cardlink.health (1.0.x)](https://tinyurl.com/gemCL-Prod) | / | / |
 | [**`Shop-Apotheke Service B.V.`**](https://www.shop-apotheke.com/) | / | / | [1.0.0](https://tinyurl.com/gemCL-Anb)  | [ISO/IEC 27001:2013](https://www.certipedia.com/certificates/01+153+2100656%252F03?locale=es)  |
 
-## eHealth-CardLink-fähige Apps
+## eHealth-CardLink - E-Rezept-Apps
 
 | Anbieter | Android | iOS | 
 | --- | --- | --- | 
