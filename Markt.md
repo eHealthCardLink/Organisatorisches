@@ -20,8 +20,12 @@
 
 <sup><sub> Statistiken und Bewertungen aus [https://play.google.com/](https://play.google.com/). </sub></sup>
 
-| Anbieter | Android | iOS | Downloads | Sterne | Bewertungen |
-| --- | --- | --- | --- | --- | --- | 
+| Anbieter | App | Android | iOS | Downloads | Sterne | Bewertungen |
+| --- | --- | --- | --- | --- | --- | --- | 
+| [**Alliance Healthcare Deutschland GmbH`**](https://www.alliance-healthcare-gehe.de/) | [apotheke.com App](https://www.apotheke.com/) | [Android](https://play.google.com/store/apps/details?id=com.mauve.apothekeCom) | [iOS](https://apps.apple.com/de/app/apotheke-com/id6499274234)
+| 1.000+ | 2,4 | 29|
+
+
 | [**`DocMorris N.V.`**](https://www.docmorris.de/) | [Android](https://play.google.com/store/apps/details?id=de.docmorris.pharmacyapp) | [iOS](https://apps.apple.com/de/app/docmorris-apotheke-e-rezept/id976600580) | | | |
 | [**`GEDISA mbH`**](https://www.gedisa.de/) | ApoGuide | | | | |
 | [**`gesund.de GmbH & Co. KG`**](https://gesund.de) | [Android](https://play.google.com/store/apps/details?id=de.gesund.app&hl=de) | [iOS](https://app.adjust.com/13kg6cjf?fallback=https%3A%2F%2Fapps.apple.com%2Fde%2Fapp%2Fgesund-de%2Fid1554260352)  | | | | 
